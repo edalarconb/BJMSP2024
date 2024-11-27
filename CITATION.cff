@@ -13,6 +13,7 @@ authors:
     email: esalarcon@uc.cl
     affiliation: Pontificia Universidad Católica de Chile
     orcid: 'https://orcid.org/0000-0003-3121-483X'
+repository-code: 'https://github.com/edalarconb/BJMSP2024'
 abstract: >+
   This repository contains the code and data needed to
   replicate the results of the paper:
