@@ -9,8 +9,11 @@ This repository contains the code and data needed to replicate the results of th
 - `code/`: Scripts used for data analysis and figure generation.
 - `data/`: Dataset used in the analysis.
 - `README.md`: This file, containing general information about the repository.
+- `CITATION.cff`: This file, containing general information about the repository.
 
-## How to Cite This Work
+## How to Cite This Repository
 
-If you use this repository, please cite the paper:
+If you use this repository, please cite it as follows:
+
+Refer to the [CITATION.cff](./CITATION.cff) file included in this repository for citation details.
 
